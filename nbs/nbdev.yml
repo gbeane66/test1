@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "test1"
+  site-url: "https://gbeane66.github.io/test1"
+  description: "Testing something"
+  repo-branch: main
+  repo-url: "https://github.com/gbeane66/test1"
