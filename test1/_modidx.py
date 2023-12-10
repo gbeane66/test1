@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://gbeane66.github.io',
                 'git_url': 'https://github.com/gbeane66/test1',
                 'lib_path': 'test1'},
-  'syms': {'test1.core': {'test1.core.summer': ('new_nb1.html#summer', 'test1/core.py')}}}
+  'syms': { 'test1.Exponential_decay': {'test1.Exponential_decay.exp_decay': ('new_nb1.html#exp_decay', 'test1/Exponential_decay.py')},
+            'test1.core': {'test1.core.exp_decay': ('new_nb1.html#exp_decay', 'test1/core.py')}}}
