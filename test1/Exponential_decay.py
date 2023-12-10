@@ -10,4 +10,4 @@ def exp_decay(t, # first value
         y0, # y offset
         tau # decay time, tau 
           ):
-    return A*np.exp(-((t-t0)/tau)**2) + y0 # exponential decay
+    return A*exp(-((t-t0)/tau)**2) + y0 # exponential decay
